@@ -1,1 +1,28 @@
-/.idea/caches/deviceStreaming.xml
+# Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# QA evidence
+QA evidencias/
+
+# Misc
+.cxx/
+*.log
+*.hprof
+*.keystore
+*.jks
